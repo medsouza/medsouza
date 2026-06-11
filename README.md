@@ -1,5 +1,3 @@
-- 👋 Ciao, I’m @medsouza
-- 👨 I’m a mechanical engineer and data scientist interested in understanding and modelling the 🌍🧬🌌
-- 🌱 I’m work in progress.
-- 🤝 I’m looking to collaborate to invest my knowledge of physical systems, processes, phenomena to develop more accurate models and machine-learning algorithms.
-- 📫 How to reach me ...
+👋 Ciao Human, welcome to my Hub.
+👨‍🎓👨‍🔧👨‍💻 I’m a Mechanical Engineer and Data Scientist understanding and modelling the real-world 🌍🧬
+🤝 I’m looking to collaborate and invest my expertise in AI as well as physical systems and processes to develop physically grounded models.
